@@ -17,3 +17,6 @@ minima:
     twitter: fazilaltinel
     github: fazilaltinel
     linkedin: fazilaltinel
+header_pages:
+  - about.md
+  - projects.md
