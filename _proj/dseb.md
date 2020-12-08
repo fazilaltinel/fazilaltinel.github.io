@@ -4,7 +4,6 @@ title:  "Deep Structured Energy-Based Image Inpainting"
 date:   2020-12-08 08:49:00 +0300
 ---
 
-# Deep Structured Energy-Based Image Inpainting
 Fazil Altinel, Mete Ozay, Takayuki Okatani  -  [http://www.vision.is.tohoku.ac.jp/](http://www.vision.is.tohoku.ac.jp/us/home/)
 
 ![](/images/projects/dseb/iterations.gif)
@@ -23,7 +22,6 @@ doi={10.1109/ICPR.2018.8546025},
 ISSN={1051-4651}, 
 month={Aug},}
 ```
-
 ## Overview
 [This repository](https://github.com/cvlab-tohoku/DSEBImageInpainting) contains TensorFlow implementation of "[Deep Structured Energy-Based Image Inpainting](https://arxiv.org/abs/1801.07939)" paper (accepted to ICPR 2018).
 
@@ -40,7 +38,6 @@ Input(y^) -> CONV1(KernelSize=8, NumFilter= 32, Stride=4) -> CONV2(KernelSize=4,
 For energy update: Learning rate = 0.01, momentum = 0.9.
 For parameter update: Learning rate = 0.001.
 ```
-
 ## Files
 ```
 files/
@@ -50,7 +47,6 @@ files/
 inpaint.py - Loads the model file and generates inpainted image(s) for given image(s).
 utils.py - Various utilities for 'inpaint.py'
 ```
-
 ## Dependencies
 Tests are performed with following version of libraries:
 
@@ -67,12 +63,10 @@ Run the command below for all testing set of CelebA dataset:
 ```
 $ python inpaint.py --allTest 1 --allImagesPath /path/to/all/dataset/folder/
 ```
-
 Run the command below for testing images under `files/imgs/`:
 ```
 $ python inpaint.py --allTest 0 --allImagesPath /path/to/all/dataset/folder/ --testImagesPath files/imgs/
 ```
-
 Result images will be located under `files/results/`.
 
 ## License
