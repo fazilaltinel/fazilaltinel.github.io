@@ -21,6 +21,6 @@ header_pages:
   - about.md
   - projects.md
 collections:
-  projs:
+  proj:
     output: true
     permalink: /:collection/:name
