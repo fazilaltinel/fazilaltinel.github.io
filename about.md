@@ -24,7 +24,6 @@ Computer Vision and Deep Learning
 ├── Image inpainting
 └── Domain adaptation
 
-
 fazil@altinel.md:~$ python education.py --all
 BS, Yildiz Technical University, Computer Engineering (2010 - 2015)
 MSc, Tohoku University, Graduate School of Information Sciences (2016 - 2018)
