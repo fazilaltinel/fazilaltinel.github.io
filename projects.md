@@ -4,4 +4,4 @@ title: Projects
 permalink: /projects/
 ---
 
-[Deep Structured Energy-Based Image Inpainting]({% post_url /projects/dseb %})
+[Deep Structured Energy-Based Image Inpainting]({% post_url /_proj/dseb %})
