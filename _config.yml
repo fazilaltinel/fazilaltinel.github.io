@@ -20,3 +20,7 @@ minima:
 header_pages:
   - about.md
   - projects.md
+collections:
+  projs:
+    output: true
+    permalink: /:collection/:name
