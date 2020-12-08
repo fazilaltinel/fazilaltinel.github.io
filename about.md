@@ -6,6 +6,6 @@ permalink: /about/
 
 About me text goes here.
 
-{% highlight bash %} 
-cat fazilaltinel.txt
+{% highlight shell_session %} 
+$ cat fazilaltinel.txt
 {% endhighlight %}
