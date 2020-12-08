@@ -29,7 +29,7 @@ month={Aug},}
 ## Overview
 [This repository](https://github.com/cvlab-tohoku/DSEBImageInpainting) contains TensorFlow implementation of "[Deep Structured Energy-Based Image Inpainting](https://arxiv.org/abs/1801.07939)" paper (accepted to ICPR 2018).
 
-![](/images/pprojects/dseb/lfSonGithub.png)
+![](/images/projects/dseb/lfSonGithub.png)
 
 + Network Architecture:
 ```
