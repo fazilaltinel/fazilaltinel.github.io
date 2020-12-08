@@ -18,12 +18,12 @@ fazil@altinel.md:~$ cat fazilaltinel.txt
 Computer Vision Research Engineer
 (Ankara, Turkey)
 
-fazil@altinel.md:~$ python education.py
+fazil@altinel.md:~$ python education.py --all
 BS, Yildiz Technical University, Computer Engineering (2010 - 2015)
 MSc, Tohoku University, Graduate School of Information Sciences (2016 - 2018)
 
 
-fazil@altinel.md:~$ python contact.py
+fazil@altinel.md:~$ python contact.py -g -t -l
 GitHub: [http://github.com/fazilaltinel](http://github.com/fazilaltinel)
 Twitter: [https://twitter.com/fazilaltinel](https://twitter.com/fazilaltinel)
 LinkedIn: [https://linkedin.com/in/fazilaltinel](https://linkedin.com/in/fazilaltinel)
