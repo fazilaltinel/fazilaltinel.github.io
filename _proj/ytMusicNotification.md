@@ -1,3 +1,9 @@
+---
+layout: post
+title:  "YouTube Music Notification Chrome Extension"
+date:   2020-12-08 15:03:00 +0300
+---
+
 Chrome extension to get desktop notifications when the song changes in Youtube Music. [Repo link](https://github.com/fazilaltinel/ytMusicNotification)
 
 ## Usage
