@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Projects
+title: ./projects.sh
 permalink: /projects/
 ---
 
