@@ -2,7 +2,6 @@
 layout: post
 title:  "Deep Structured Energy-Based Image Inpainting"
 date:   2020-12-08 08:49:00 +0300
-categories: Projects
 ---
 
 # Deep Structured Energy-Based Image Inpainting
