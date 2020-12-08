@@ -24,3 +24,5 @@ BS, Yildiz Technical University, Computer Engineering (2010 - 2015)
 MSc, Tohoku University, Graduate School of Information Sciences (2016 - 2018)
 
 {% endhighlight %}
+
+# ASCII graphic is generated using http://patorjk.com/software/taag/
