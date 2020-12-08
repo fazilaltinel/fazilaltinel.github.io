@@ -1,7 +1,6 @@
-title: fazil@altinel
+title: fazil@altinel.md
 # email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  $ cat fazilaltinel.md
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 markdown: GFM
