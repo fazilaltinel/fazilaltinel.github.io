@@ -4,8 +4,7 @@ title: whoami
 permalink: /about/
 ---
 
-{% highlight shell_session %} fazil@altinel.md:~$ whoami
-     ____ __  ____ __ __         
+{% highlight shell_session %} fazil@altinel.md:~$ whoami      
        ____   __   ____   __   __         
       (  __) / _\ (__  ) (  ) (  )        
        ) _) /    \ / _/   )(  / (_/\      
