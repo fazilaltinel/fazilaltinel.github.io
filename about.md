@@ -24,10 +24,14 @@ MSc, Tohoku University, Graduate School of Information Sciences (2016 - 2018)
 
 
 fazil@altinel.md:~$ python contact.py -g -t -l
-GitHub: [http://github.com/fazilaltinel][http://github.com/fazilaltinel]
-Twitter: [https://twitter.com/fazilaltinel][https://twitter.com/fazilaltinel]
-LinkedIn: [https://linkedin.com/in/fazilaltinel][https://linkedin.com/in/fazilaltinel]
+GitHub: [http://github.com/fazilaltinel][ghLink]
+Twitter: [https://twitter.com/fazilaltinel][ttLink]
+LinkedIn: [https://linkedin.com/in/fazilaltinel][liLink]
 
 {% endhighlight %}
 
 <!--- ASCII graphic is generated using http://patorjk.com/software/taag/ --->
+
+[ghLink]: http://github.com/fazilaltinel
+[ttLink]: https://twitter.com/fazilaltinel
+[liLink]: https://linkedin.com/in/fazilaltinel
