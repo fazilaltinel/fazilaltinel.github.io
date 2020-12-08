@@ -24,3 +24,5 @@ collections:
   proj:
     output: true
     permalink: /:collection/:name
+include:
+  - proj
