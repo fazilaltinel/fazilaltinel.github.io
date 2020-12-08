@@ -5,3 +5,7 @@ permalink: /about/
 ---
 
 About me text goes here.
+
+{% highlight console %} 
+cat fazilaltinel.txt
+{% endhighlight %}
