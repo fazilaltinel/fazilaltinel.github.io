@@ -20,9 +20,11 @@ minima:
 header_pages:
   - about.md
   - projects.md
-collections:
-  proj:
-    output: true
-    permalink: /:collection/:name
 include:
-  - proj
+  - _proj
+defaults:
+  - scope:
+      path: "_proj"
+      type: "proj"
+    values:
+      permalink: /:basename/
