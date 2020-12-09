@@ -25,8 +25,8 @@ Computer Vision and Deep Learning
 └── Domain adaptation
 
 fazil@altinel.md:~$ python education.py --all
-BS, Computer Engineering, Yildiz Technical University, Istanbul, Turkey (2010 - 2015)
-MSc, Graduate School of Information Sciences, Tohoku University, Sendai, Japan (2016 - 2018)
+BS, Computer Engineering, Yildiz Technical University (2010 - 2015 | Istanbul, Turkey)
+MSc, Graduate School of Information Sciences, Tohoku University (2016 - 2018 | Sendai, Japan)
 
 {% endhighlight %}
 
