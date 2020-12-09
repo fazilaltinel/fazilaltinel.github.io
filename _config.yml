@@ -18,7 +18,7 @@ minima:
     github: fazilaltinel
     linkedin: fazilaltinel
 header_pages:
-  - about.md
+  - whoami.md
   - projects.md
 include:
   - _proj
