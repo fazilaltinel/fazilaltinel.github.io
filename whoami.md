@@ -28,6 +28,8 @@ fazil@altinel.md:~$ python education.py --all
 BS, Computer Engineering, Yildiz Technical University (2010 - 2015 | Istanbul, Turkey)
 MSc, Graduate School of Information Sciences, Tohoku University (2016 - 2018 | Sendai, Japan)
 
+fazil@altinel.md:~$ ⎕
+
 {% endhighlight %}
 
 <!--- ASCII graphic was generated using http://patorjk.com/software/taag/ --->
