@@ -14,6 +14,7 @@ permalink: /whoami/
 /    \/ (_/\  )(    )(  /    / ) _) / (_/\
 \_/\_/\____/ (__)  (__) \_)__)(____)\____/
 
+fazil@altinel.md:~$ cd /home/fazil/
 fazil@altinel.md:~$ cat fazilaltinel.txt
 Computer Vision Research Engineer
 (Ankara, Turkey)
