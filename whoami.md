@@ -19,7 +19,7 @@ fazil@altinel.md:~$ cat fazilaltinel.txt
 Computer Vision Research Engineer
 (Ankara, Turkey)
 
-fazil@altinel.md:~$ ls --human-readable topics/
+fazil@altinel.md:~$ ls --human-readable -l research/topics/
 Computer Vision and Deep Learning
 ├── Deep structured energy-based models
 ├── Image inpainting
